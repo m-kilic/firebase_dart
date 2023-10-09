@@ -38,7 +38,7 @@ class FirebaseDartFlutter {
               },
         authHandler: AuthHandler.from([
           GoogleAuthHandler(),
-          FacebookAuthHandler(),
+   //       FacebookAuthHandler(),
           AppleAuthHandler(),
           AndroidAuthHandler(),
           const AuthHandler(),
