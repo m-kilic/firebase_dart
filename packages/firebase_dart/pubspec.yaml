@@ -27,7 +27,7 @@ dependencies:
   http: ^1.1.0
   _discoveryapis_commons: ^1.0.0
   expressions: ^0.2.2
-  uuid: ^4.1.0
+  uuid: ^3.0.1
   crypto: ^3.0.0
   js: ^0.6.3
   synchronized: ^3.0.0
